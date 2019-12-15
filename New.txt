@@ -6,5 +6,9 @@ He says come dance with me it will be alright, it's gonna be okay
 last line i am out of here
 i am come back again
 Lipstick and cocaine down the rivers of hell
+<<<<<<< HEAD
 Lipstick and cocaine it was all i could see 
 
+=======
+Lipstick and cocaine i wont go back again
+>>>>>>> FeelingGood
